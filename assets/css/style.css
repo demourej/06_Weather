@@ -1,0 +1,17 @@
+/* Style adjustments for classes design */
+
+.main {
+    padding-left: 20px;
+}
+
+.main-card {
+    margin-left: 20px;
+}
+
+.card-header {
+    font-weight: bolder;
+}
+
+.rounded {
+    padding: 5px 10px;
+}
